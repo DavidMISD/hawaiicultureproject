@@ -1,0 +1,13 @@
+{
+	"1": {
+		"image": "1.jpg",
+		"dialouges": []
+	},
+	"2": {
+		"image": "1.jpg",
+		"dialouges": [
+			{ "text": "Yes!", "person": "Colonel Sanders" },
+			{ "text": "No!", "person": "Colonel Weewee" }
+		]
+	}
+}
